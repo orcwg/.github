@@ -114,7 +114,3 @@ New government regulations on the software industry will impact open source comm
 </a>
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-## License
-
-- [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) 
