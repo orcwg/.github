@@ -24,11 +24,10 @@ New government regulations on the software industry will impact open source comm
 * Promote the adoption of the resulting specifications to various relevant standardisation bodies.
 * Through its member organisations, promote the adoption of compliant software development practices across industry through advocacy, outreach, and knowledge-sharing initiatives.
 
-
 ## Get Involved
 
-- [Meetings](./MEETINGS.md)
-- [In person events](./events)
+- [Meetings](https://github.com/orcwg/orcwg/blob/main/MEETINGS.md)
+- [In person events](https://github.com/orcwg/orcwg/blob/main/events)
 - [Mailing List](https://accounts.eclipse.org/mailing-list/open-regulatory-compliance) ([Archive](https://www.eclipse.org/lists/open-regulatory-compliance/maillist.html))
 - [Slack](https://orcwg.slack.com/) ([Request invitation](https://join.slack.com/t/orcwg/shared_invite/zt-2vi7gi5ad-re2b35i95ar3WaVF2zoZaA))
 - [Community Calendar](https://calendar.google.com/calendar/u/0/embed?src=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea@group.calendar.google.com) ([iCal format](https://calendar.google.com/calendar/ical/c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com/public/basic.ics))
