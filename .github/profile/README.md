@@ -26,9 +26,9 @@ New government regulations on the software industry will impact open source comm
 
 ## Key resources
 
-- [Cyber Resilience SIG](https://github.com/orcwg/orcwg/tree/main/cyber-resilience-sig)
-- [CRA Hub](https://github.com/orcwg/cra-hub)
-- [CRA FAQ](https://github.com/orcwg/cra-hub/blob/main/faq.md)
+- [orcwg repository](https://github.com/orcwg/orcwg) - here you will find everything about the activities of ORC WG: minutes of meetings, events, special interest groups, working mode, deliverable plan, etc.
+- [Cyber Resilience SIG](https://github.com/orcwg/orcwg/tree/main/cyber-resilience-sig#cyber-resilience-sig) - The Cyber Resilience SIG is the special interest group focused on the Cyber Resilience Act (CRA). If the CRA is what you're here for, Cyber Resilience SIG is where you should get involved!
+- [CRA Hub](https://github.com/orcwg/cra-hub) - This is where you'll find all of the key resources related to the CRA and in particular our [CRA FAQs](https://github.com/orcwg/cra-hub).
 
 ## Get Involved
 
