@@ -39,8 +39,6 @@ New government regulations on the software industry will impact open source comm
   *  [Community Calender](https://calendar.google.com/calendar/u/0/embed?src=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea@group.calendar.google.com)
   *  [Working Group Calls](https://github.com/orcwg/orcwg/blob/main/MEETINGS.md)
   *  [Webinar Series](https://youtube.com/playlist?list=PLy7t4z5SYNaQEyXv253SI6PDdPjbYXcNV&si=FNi1Ib--TqpaemIg)
-* **Going beyond** with the **Eclipse Community Newsletter**: [Subscribe Here](https://eclipse.us6.list-manage.com/subscribe?u=eaf9e1f06f194eadc66788a85&id=46e57eacf1&v_id=53&f_id=00fac2e1f0)
-
 
 ## Statistics (last 12 months)
 
