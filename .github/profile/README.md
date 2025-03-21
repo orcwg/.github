@@ -24,6 +24,12 @@ New government regulations on the software industry will impact open source comm
 * Promote the adoption of the resulting specifications to various relevant standardisation bodies.
 * Through its member organisations, promote the adoption of compliant software development practices across industry through advocacy, outreach, and knowledge-sharing initiatives.
 
+## Key resources
+
+- [Cyber Resilience SIG](https://github.com/orcwg/orcwg/tree/main/cyber-resilience-sig)
+- [CRA Hub](https://github.com/orcwg/cra-hub)
+- [CRA FAQ](https://github.com/orcwg/cra-hub/blob/main/faq.md)
+
 ## Get Involved
 
 - [Meetings](https://github.com/orcwg/orcwg/blob/main/MEETINGS.md)
