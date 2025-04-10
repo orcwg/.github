@@ -27,7 +27,7 @@ Some key ongoing activities in which you can engage with us:
 ### I work for an OSPO
 - Specific actions for 
 	- [CRA FAQs for manufacturers](https://github.com/orcwg/cra-hub/blob/main/faq.md#manufacturers)
-	- Attestation programs, SBOMs, due diligence for manufacturers ... there are multiple [deliverables](https://github.com/orcwg/orcwg/tree/main/cyber-resilience-sig#deliverables) waiting for your contributions.
+	- Attestation programs, SBOMs, due diligence for manufacturers… there are multiple [deliverables](https://github.com/orcwg/orcwg/tree/main/cyber-resilience-sig#deliverables) waiting for your contributions.
 
 ### I am a steward
 - [CRA FAQs for Stewards](https://github.com/orcwg/cra-hub/blob/main/faq.md#open-source-software-stewards)
