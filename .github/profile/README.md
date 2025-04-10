@@ -1,7 +1,7 @@
  <img src="https://github.com/user-attachments/assets/e3e706de-2225-4242-84cd-a9dbe517c447" />
 
 
-**Welcome to the [ORC](https://orcwg.org/) GitHub space** – an [Eclipse Foundation Working Group](https://eclipse.org/) working on supporting Open Source Community to be compliant with the demands of the *[Cyber Resilient Act](https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act).* 
+**Welcome to the ORC GitHub organization** – ORC is an Eclipse Foundation Working Group whose immediate focus is to help open source maintainers and users meet the compliance requirements of the **European Cyber Resilience Act (CRA).**
 
 ## The Cyber Resilience Act
 
