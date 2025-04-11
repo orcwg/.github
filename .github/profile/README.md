@@ -1,4 +1,4 @@
- <img src="https://github.com/user-attachments/assets/e3e706de-2225-4242-84cd-a9dbe517c447" />
+ <img src="./images/orc-banner.png" />
 
 
 **Welcome to the ORC GitHub organization** – ORC is an Eclipse Foundation Working Group whose immediate focus is to help open source maintainers and users meet the compliance requirements of the **European Cyber Resilience Act (CRA).**
