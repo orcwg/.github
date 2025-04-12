@@ -7,7 +7,7 @@
 
 The ORC WG main focus today is on supporting the open source community in developing assets that helps implement the CRA requirements. This has been translated into specific work streams as follows:
 - **[CRA FAQs](https://github.com/orcwg/cra-hub)**- Either you are newbie to the CRA, or a pro already working on its implementation, the CRA FAQ is a space for the open source community to ask questions and clarify key CRA topics.
-- **[ORC Delivarable Plan](https://github.com/orcwg/orcwg/tree/main/cyber-resilience-sig#deliverables)** - The ORC community has outlined key deliverables to work on in 2025.
+- **[ORC Deliverables Plan](https://github.com/orcwg/orcwg/tree/main/cyber-resilience-sig#deliverables)** - The ORC community has outlined key deliverables to work on in 2025.
 - **[Inventory](https://github.com/orcwg/cra-hub/blob/main/inventory.md)** - Inventory of resources relevant to the horizontal CRA standards, Open Source Steward obligations, and the security attestation program.
 - **[CRA Hub](https://github.com/orcwg/cra-hub)** - Want an overview of our CRA-related work? This is the place to do it.
 
