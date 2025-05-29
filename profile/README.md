@@ -26,31 +26,7 @@ The ORC WG main focus today is on supporting the open source community in develo
 
 ## The CRA FAQ 
 The CRA FAQ is a community effort for clarifying parts of the CRA text and related obligations in regards to how the Open Source Community is impacted.
-### Contribute to the FAQ
-Contributing the FAQ is fairly easy, just follow this flow
-```mermaid
-flowchart TD
-    
-    B[Open the CRA FAQ Project ]
-    C[Do you have a question?]
 
-    D1[Browse the repo to see if your question is already listed]
-    D2[Is your question in the list?]
-    E1[Join the existing conversation]
-    E2[Do you have additional insights?]
-    F1[Contribute to the discussion]
-    F2[Learn from the community's shared knowledge]
-
-    G[Add a new issue with your question and tag it by category]
-
-    B --> C
-    C -->|Yes| D1 --> D2
-    D2 -->|Yes| E1 --> E2
-    E2 -->|Yes| F1
-    E2 -->|No| F2
-    D2 -->|No| G
-    C -->|No| F2
-```
 ### I'm a developer/maintainer in an open source project
 - Here you have a few pointers that can help you in your work towards compliance:
 	- [CRA FAQs for maintainers](https://github.com/orcwg/cra-hub/blob/main/faq.md#maintainers)
