@@ -1,6 +1,12 @@
  <img src="./images/orc-banner.png" />
 
 
+<div style="text-align: center; margin-bottom: 20px">
+<a href="https://orcwg.org/about/">About ORC WG</a> | <a href="https://orcwg.org/cra/">About Cyber Resilience Act (CRA) </a> | <a href="https://github.com/orcwg/cra-hub">CRA Hub</a> | <a href="https://orcwg.org/participate/">Get Involved </a>
+
+</div>
+
+
 **Welcome to the ORC GitHub organization** – ORC is an Eclipse Foundation Working Group whose immediate focus is to help open source maintainers and users meet the compliance requirements of the **European Cyber Resilience Act (CRA).**
 
 ## The Cyber Resilience Act
@@ -12,26 +18,33 @@ The ORC WG main focus today is on supporting the open source community in develo
 - **[CRA Hub](https://github.com/orcwg/cra-hub)** - Want an overview of our CRA-related work? This is the place to do it.
 
 ## How to contribute 
-- **Join our calls**. Our [meetings](https://github.com/orcwg/orcwg/blob/main/MEETINGS.md) are public and open to all. ([iCal format](https://calendar.google.com/calendar/ical/c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com/public/basic.ics))
-- **Subscribe to our [mailing List](https://accounts.eclipse.org/mailing-list/open-regulatory-compliance)** ([Archive](https://www.eclipse.org/lists/open-regulatory-compliance/maillist.html))
-- **Join our [Slack](https://orcwg.slack.com/) channel** ([Request invitation](https://join.slack.com/t/orcwg/shared_invite/zt-2vi7gi5ad-re2b35i95ar3WaVF2zoZaA))
 
-Some key ongoing activities in which you can engage with us:
+- Join the conversation on [Slack](https://join.slack.com/t/orcwg/shared_invite/zt-2vi7gi5ad-re2b35i95ar3WaVF2zoZaA) or our[mailing list](https://accounts.eclipse.org/mailing-list/open-regulatory-compliance).
+- [Become a member](https://join.slack.com/t/orcwg/shared_invite/zt-2vi7gi5ad-re2b35i95ar3WaVF2zoZaA) of the working group, you can review [our charter](https://www.eclipse.org/org/workinggroups/open-regulatory-compliance-charter.php) to learn more.
+- [Subscribe](https://eclipse.us6.list-manage.com/subscribe?u=eaf9e1f06f194eadc66788a85&id=46e57eacf1&v_id=53&f_id=00fac2e1f0) to the Eclipse Community Newsletter.
 
-### I'm a developer/maintainer in an open source project
-- Here you have a few pointers that can help you in your work towards compliance:
-	- [CRA FAQs for maintainers](https://github.com/orcwg/cra-hub/blob/main/faq.md#maintainers)
- 	- [CRA FAQs open conversations for maintainers](https://github.com/orgs/orcwg/projects/7/views/2)
-	- [Vulnerability handling specification](https://github.com/orcwg/vulnerability-management-spec) - we'd like to have you contributing to this specification. **This is the first obligation under the CRA**.
+### Join our calls
 
-### I work for an OSPO
-- Specific actions for 
-	- [CRA FAQs for manufacturers](https://github.com/orcwg/cra-hub/blob/main/faq.md#manufacturers)
- 	- [CRA FAQs open conversations for manufacturers](https://github.com/orgs/orcwg/projects/7/views/4) 	
-	- Attestation programs, SBOMs, due diligence for manufacturers… there are multiple [deliverables](https://github.com/orcwg/orcwg/tree/main/cyber-resilience-sig#deliverables) waiting for your contributions.
+We have a number of meetings, you can join any of them or subscribe to the calendar to always stay informed.
 
-### I work for a Steward
-- [CRA FAQs for Stewards](https://github.com/orcwg/cra-hub/blob/main/faq.md#open-source-software-stewards)
-- [CRA FAQs open conversations for stewards](https://github.com/orgs/orcwg/projects/7/views/3)
-- [Vulnerability handling specification](https://github.com/orcwg/vulnerability-management-spec) - Contribute and stay up to date. **This is the first obligation under the CRA**
+
+
+<iframe 
+  class="" 
+  src="https://calendar.google.com/calendar/embed?src=c_7db8e3f13c4fac984103918a97c704bb1d619da0fdb66d33f1747849b6020aea%40group.calendar.google.com" 
+  style="border: 0" 
+  height="600"
+  width="900" 
+  frameborder="0" 
+  scrolling="no"
+>
+</iframe>
+
+
+
+## Events we are attending
+
+- 11 September 2025 - 12 September 2025 - [Comply.Land](https://comply.land/)
+- 18 September 2025 - 18 September 2025 - [Bitkom Open Source Forum 2025](https://www.bitkom.org/Forum-Open-Source-2025)
+- 23 September 2025 - 24 September 2025 - [The Things Conference](https://www.thethingsconference.com/)
 
