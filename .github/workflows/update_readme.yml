@@ -1,4 +1,4 @@
-name: Update Events in README
+name: update-events
 on:
   schedule:
     - cron: '0 3 * * *'
