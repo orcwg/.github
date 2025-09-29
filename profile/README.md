@@ -19,7 +19,7 @@ The ORC WG main focus today is on supporting the open source community in develo
 
 ## How to contribute 
 
-- Join the conversation on [Slack](https://join.slack.com/t/orcwg/shared_invite/zt-2vi7gi5ad-re2b35i95ar3WaVF2zoZaA) or our[mailing list](https://accounts.eclipse.org/mailing-list/open-regulatory-compliance).
+- Join the conversation on [Slack](https://join.slack.com/t/orcwg/shared_invite/zt-2vi7gi5ad-re2b35i95ar3WaVF2zoZaA) or our [mailing list](https://accounts.eclipse.org/mailing-list/open-regulatory-compliance).
 - [Become a member](https://join.slack.com/t/orcwg/shared_invite/zt-2vi7gi5ad-re2b35i95ar3WaVF2zoZaA) of the working group, you can review [our charter](https://www.eclipse.org/org/workinggroups/open-regulatory-compliance-charter.php) to learn more.
 - [Subscribe](https://eclipse.us6.list-manage.com/subscribe?u=eaf9e1f06f194eadc66788a85&id=46e57eacf1&v_id=53&f_id=00fac2e1f0) to the Eclipse Community Newsletter.
 
