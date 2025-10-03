@@ -7,6 +7,8 @@ on:
 jobs:
   update-events:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Check out repo
         uses: actions/checkout@v4
