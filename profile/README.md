@@ -28,9 +28,9 @@ The ORC WG main focus today is on supporting the open source community in develo
 ## Events we are attending
 <!-- START_EVENTS -->
 - 6 October 2025 - 9 October 2025 - [ETSI Security Conference 2025](https://www.etsi.org/events/upcoming-events/2481-etsi-security-conference-oct2025)
-- 8 October 2025 - [CRA - Making the EU Market Resilient](https://www.enisa.europa.eu/events/cra-making-the-eu-market-resilient)
 - 22 October 2025 - 23 October 2025 - [Code and Compliance Community Day](https://www.eclipse-foundation.events/event/Code-and-compliance-Community-Day-2025/summary)
 - 29 October 2025 - [Digital Resilience Forum](https://digitalresilienceforum.com/)
 - 13 November 2025 - 15 November 2025 - [Nerdearla Spain 2025](https://nerdearla.es/en/)
+- 21 April 2026 - 23 April 2026 - [Open Community Experience (OCX) 2026](https://www.ocxconf.org/event/2026)
 <!-- END_EVENTS -->
 
