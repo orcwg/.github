@@ -27,7 +27,6 @@ The ORC WG main focus today is on supporting the open source community in develo
 
 ## Events we are attending
 <!-- START_EVENTS -->
-- 29 October 2025 - [Digital Resilience Forum](https://digitalresilienceforum.com/)
 - 3 November 2025 - 7 November 2025 - [OCX Webinar Week](https://www.ocxconf.org/event/403bffe2-15d8-49ac-af52-e2781b7296b3/webinar-week)
 - 13 November 2025 - 15 November 2025 - [Nerdearla Spain 2025](https://nerdearla.es/en/)
 - 29 January 2026 - [Code & Compliance 2026](https://www.eclipse-foundation.events/event/code-compliance-2026)
