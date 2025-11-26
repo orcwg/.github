@@ -28,6 +28,7 @@ The ORC WG main focus today is on supporting the open source community in develo
 ## Events we are attending
 <!-- START_EVENTS -->
 - 3 December 2025 - [CRAzy About Product Cybersecurity: From Compliance to Confidence](https://digital-strategy.ec.europa.eu/en/events/crazy-about-product-cybersecurity-compliance-confidence-connect-university)
+- 4 December 2025 - [Open Source Congress webinar - Behind the curtain at Brussels: how does open source get on the agenda?](https://www.crowdcast.io/c/opensourcecongresswebinar0412)
 - 29 January 2026 - [Code & Compliance 2026](https://www.eclipse-foundation.events/event/code-compliance-2026)
 - 31 January 2026 - 1 February 2026 - [FOSDEM 2026](https://fosdem.org/2026/)
 - 21 April 2026 - 23 April 2026 - [Open Community Experience (OCX) 2026](https://www.ocxconf.org/event/2026)
