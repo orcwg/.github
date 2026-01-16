@@ -30,7 +30,7 @@ The ORC WG main focus today is on supporting the open source community in develo
 - 28 January 2026 - [GVIP Summit](https://www.gvip-project.org/)
 - 29 January 2026 - [Code & Compliance 2026](https://www.eclipse-foundation.events/event/code-compliance-2026)
 - 31 January 2026 - 1 February 2026 - [FOSDEM 2026](https://fosdem.org/2026/)
+- 12 March 2026 - [10th Cybersecurity Standardisation Conference](https://www.enisa.europa.eu/cybersecurity_standardisation_2026)
 - 16 March 2026 - 17 March 2026 - [FOSS Backstage 2026](https://26.foss-backstage.de/)
-- 24 March 2026 - 26 March 2026 - [OpenChain and Friends 2026](https://openchainproject.org/news/2025/12/09/openchain-and-friends-2026)
 <!-- END_EVENTS -->
 
