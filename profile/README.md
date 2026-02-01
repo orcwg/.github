@@ -27,10 +27,10 @@ The ORC WG main focus today is on supporting the open source community in develo
 
 ## Events we are attending
 <!-- START_EVENTS -->
-- 29 January 2026 - [Code & Compliance 2026](https://www.eclipse-foundation.events/event/code-compliance-2026)
 - 31 January 2026 - 1 February 2026 - [FOSDEM 2026](https://fosdem.org/2026/)
 - 2 February 2026 - [CRA Mondays | Anyone who still puts AI-generated code into circulation today has conditional intent to infringe the law – how to limit or at least defer the risk](https://github.com/orcwg/orcwg/tree/main/events/cra-mondays#february-2-anyone-who-still-puts-ai-generated-code-into-circulation-today-has-conditional-intent-to-infringe-the-law--how-to-limit-or-at-least-defer-the-risk)
 - 16 February 2026 - [CRA Mondays | Open Source Governance in the Global South: Challenges, Opportunities & Compliance in Africa](https://github.com/orcwg/orcwg/tree/main/events/cra-mondays#february-16-open-source-governance-in-the-global-south-challenges-opportunities--compliance-in-africa)
 - 2 March 2026 - [CRA Mondays | Software Hash Identifier introduction and applications to in-development standards](https://github.com/orcwg/orcwg/tree/main/events/cra-mondays#march-2-software-hash-identifier-introduction-and-applications-to-in-development-standards)
+- 12 March 2026 - [10th Cybersecurity Standardisation Conference](https://www.enisa.europa.eu/cybersecurity_standardisation_2026)
 <!-- END_EVENTS -->
 
