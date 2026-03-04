@@ -27,10 +27,6 @@ The ORC WG main focus today is on supporting the open source community in develo
 
 ## Events we are attending
 <!-- START_EVENTS -->
-- 2 March 2026 - [CRA Mondays | Software Hash Identifier introduction and applications to in-development standards](https://github.com/orcwg/orcwg/tree/main/events/cra-mondays#march-2-software-hash-identifier-introduction-and-applications-to-in-development-standards)
-- 10 March 2026 - 12 March 2026 - [Embedded World 2026](https://www.embedded-world.de/en)
-- 12 March 2026 - [10th Cybersecurity Standardisation Conference](https://www.enisa.europa.eu/cybersecurity_standardisation_2026)
-- 16 March 2026 - 17 March 2026 - [FOSS Backstage 2026](https://26.foss-backstage.de/)
-- 20 March 2026 - [How PURL transforms OSPO operations on OSPO Alliance OnRamp session](https://ospo-alliance.org/news/20260320_onramp_purl_for_ospos/)
+Could not retrieve events at this time.
 <!-- END_EVENTS -->
 
