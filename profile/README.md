@@ -31,5 +31,6 @@ The ORC WG main focus today is on supporting the open source community in develo
 - 8 April 2026 - 10 April 2026 - [Nordic Software Security Summit 2026](https://nsss.se/)
 - 21 April 2026 - 23 April 2026 - [Open Community Experience (OCX) 2026](https://www.ocxconf.org/event/2026)
 - 27 April 2026 - 28 April 2026 - [foss-north 2026](https://foss-north.se/2026/)
+- 11 May 2026 - [CRA Mondays | Using the CRA to Understand Systems in Practice](https://github.com/orcwg/orcwg/tree/main/events/cra-mondays#may-11-using-the-cra-to-understand-systems-in-practice)
 <!-- END_EVENTS -->
 
