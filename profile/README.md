@@ -27,7 +27,6 @@ The ORC WG main focus today is on supporting the open source community in develo
 
 ## Events we are attending
 <!-- START_EVENTS -->
-- 24 March 2026 - 26 March 2026 - [OpenChain and Friends 2026](https://openchainproject.org/news/2025/12/09/openchain-and-friends-2026)
 - 8 April 2026 - 10 April 2026 - [Nordic Software Security Summit 2026](https://nsss.se/)
 - 21 April 2026 - 23 April 2026 - [Open Community Experience (OCX) 2026](https://www.ocxconf.org/event/2026)
 - 27 April 2026 - 28 April 2026 - [foss-north 2026](https://foss-north.se/2026/)
