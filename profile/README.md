@@ -27,7 +27,6 @@ The ORC WG main focus today is on supporting the open source community in develo
 
 ## Events we are attending
 <!-- START_EVENTS -->
-- 6 May 2026 - [Unpacking the CRA for the Automotive Industry](https://crowdcast.io/c/may6-2026-orc-sdv)
 - 11 May 2026 - [CRA Mondays | Using the CRA to Understand Systems in Practice](https://github.com/orcwg/orcwg/tree/main/events/cra-mondays#may-11-using-the-cra-to-understand-systems-in-practice)
 - 18 May 2026 - 23 May 2026 - [RustWeek 2026](https://2026.rustweek.org/)
 <!-- END_EVENTS -->
