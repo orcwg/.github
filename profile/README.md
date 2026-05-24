@@ -27,6 +27,6 @@ The ORC WG main focus today is on supporting the open source community in develo
 
 ## Events we are attending
 <!-- START_EVENTS -->
-- 18 May 2026 - 23 May 2026 - [RustWeek 2026](https://2026.rustweek.org/)
+No upcoming events found.
 <!-- END_EVENTS -->
 
