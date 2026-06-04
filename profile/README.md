@@ -27,6 +27,6 @@ The ORC WG main focus today is on supporting the open source community in develo
 
 ## Events we are attending
 <!-- START_EVENTS -->
-No upcoming events found.
+- 13 April 2027 - 15 April 2027 - [OCX 2027](https://www.ocxconf.org/event/2027)
 <!-- END_EVENTS -->
 
