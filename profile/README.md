@@ -28,8 +28,9 @@ The ORC WG main focus today is on supporting the open source community in develo
 ## Events we are attending
 <!-- START_EVENTS -->
 - 1 September 2026 - 3 September 2026 - [Global Digital Collaboration Conference 2026](https://globaldigitalcollaboration.org/)
+- 8 September 2026 - [Eclipse SDV Community Meetup - Tokyo, Japan 2026](https://luma.com/sdvjapan26)
+- 19 October 2026 - 22 October 2026 - [ETSI Security Conference 2026](https://www.etsi.org/events/2645-etsi-security-conference-oct2026/)
 - 27 October 2026 - [Code & Compliance](https://codeandcompliance.orcwg.org/)
-- 23 March 2027 - 25 March 2027 - [The EU Cyber Acts Conference](https://eucyberact.org/)
-- 13 April 2027 - 15 April 2027 - [OCX 2027](https://www.ocxconf.org/event/2027)
+- 4 November 2026 - 6 November 2026 - [Nordic Software Security Summit](https://nsss.se)
 <!-- END_EVENTS -->
 
