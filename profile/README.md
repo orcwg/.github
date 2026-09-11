@@ -27,10 +27,10 @@ The ORC WG main focus today is on supporting the open source community in develo
 
 ## Events we are attending
 <!-- START_EVENTS -->
+- 13 October 2026 - [Tech Week 2026 | EU Cyber Resilience Act (CRA): Automating CI/CD Compliance with AI](https://partiful.com/e/dv9qSGilcF1gjVTMmYfh)
 - 19 October 2026 - 20 October 2026 - [TechEx Europe 2026](https://techexevent.com/europe/)
 - 19 October 2026 - 22 October 2026 - [ETSI Security Conference 2026](https://www.etsi.org/events/2645-etsi-security-conference-oct2026/)
 - 27 October 2026 - [Code & Compliance](https://codeandcompliance.orcwg.org/)
 - 4 November 2026 - 6 November 2026 - [Nordic Software Security Summit](https://nsss.se)
-- 17 November 2026 - [Apply AI Summit](https://digital-strategy.ec.europa.eu/en/policies/apply-ai-summit)
 <!-- END_EVENTS -->
 
