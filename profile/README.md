@@ -28,8 +28,8 @@ The ORC WG main focus today is on supporting the open source community in develo
 ## Events we are attending
 <!-- START_EVENTS -->
 - 13 October 2026 - [Tech Week 2026 | EU Cyber Resilience Act (CRA): Automating CI/CD Compliance with AI](https://partiful.com/e/dv9qSGilcF1gjVTMmYfh)
-- 19 October 2026 - 20 October 2026 - [TechEx Europe 2026](https://techexevent.com/europe/)
 - 19 October 2026 - 22 October 2026 - [ETSI Security Conference 2026](https://www.etsi.org/events/2645-etsi-security-conference-oct2026/)
+- 19 October 2026 - 20 October 2026 - [TechEx Europe 2026](https://techexevent.com/europe/)
 - 19 October 2026 - [CRA Mondays - CRA Training Community Review](https://github.com/orcwg/orcwg/blob/main/events/cra-mondays/README.md#october-19-sboms-and-vulnerability-management-cra-training-community-review)
 - 22 October 2026 - [Exploring an Open Source Toolkit for SMEs to manage Cyber Resilience Act compliance](https://www.digitalsme.eu/events/exploring-an-open-source-toolkit-for-smes-to-manage-cyber-resilience-act-compliance/)
 <!-- END_EVENTS -->
