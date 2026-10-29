@@ -27,10 +27,10 @@ The ORC WG main focus today is on supporting the open source community in develo
 
 ## Events we are attending
 <!-- START_EVENTS -->
-- 27 October 2026 - [Code & Compliance](https://codeandcompliance.orcwg.org/)
 - 2 November 2026 - 6 November 2026 - [OCX Webinar Week](https://ocxconf.org/webinar-week/)
 - 4 November 2026 - 6 November 2026 - [Nordic Software Security Summit](https://nsss.se)
 - 17 November 2026 - [Apply AI Summit](https://digital-strategy.ec.europa.eu/en/policies/apply-ai-summit)
 - 9 December 2026 - 10 December 2026 - [OSXP 2026](https://www.opensource-experience.com/)
+- 28 January 2027 - [Code & Compliance | FOSDEM Edition 2027](https://codeandcompliance.orcwg.org/code-compliance-fosdem-edition-2027/)
 <!-- END_EVENTS -->
 
