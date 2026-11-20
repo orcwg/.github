@@ -27,10 +27,10 @@ The ORC WG main focus today is on supporting the open source community in develo
 
 ## Events we are attending
 <!-- START_EVENTS -->
-- 18 November 2026 - [From Policy to Pipeline: CRA Open-Source Stewardship, Automated SBOMs, and the OCCTET Toolchain](https://events.teams.microsoft.com/event/65192b4e-1b80-464c-abd2-5d0c3e2a7991@a73390eb-2f02-4cf6-8481-0fd4123efb55)
 - 9 December 2026 - 10 December 2026 - [OSXP 2026](https://www.opensource-experience.com/)
 - 28 January 2027 - [Code & Compliance | FOSDEM Edition 2027](https://codeandcompliance.orcwg.org/code-compliance-fosdem-edition-2027/)
 - 30 January 2027 - 31 January 2027 - [FOSDEM '27](https://fosdem.org/2027/)
 - 23 March 2027 - 25 March 2027 - [The EU Cyber Acts Conference](https://eucyberact.org/)
+- 13 April 2027 - 15 April 2027 - [OCX 2027](https://www.ocxconf.org/event/2027)
 <!-- END_EVENTS -->
 
